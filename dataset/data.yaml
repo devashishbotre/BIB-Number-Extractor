@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/dataset  # path to dataset root
+train: images/train  # training images folder
+val: images/val  # validation images folder
+
+nc: 1  # number of classes
+names: ['bib_number']  # class names
