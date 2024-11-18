@@ -24,18 +24,17 @@ Each label file follows the YOLO format:
 * Each image standard size should be __640 X 640__ px.
 
 ### Dataset Directory
-> train
-> > images
+> images
+> > train
 > > 
-> > labels
+> > val
 > > 
-> valid
-> > images
+> > test
 > > 
-> > labels
-> > 
-> test
-> > images
+> labels
+> > train
+> >
+> > val
 > > 
 > data.yaml
 
