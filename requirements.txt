@@ -1,0 +1,8 @@
+numpy
+opencv-python
+tensorflow
+keras
+keras-ocr
+torch
+torchvision
+ultralytics
